@@ -1,4 +1,4 @@
-
+﻿
 1) git init 
 2) git add .
 3) git status
@@ -24,3 +24,6 @@ ADDITIONAL
 5) git log = show all commits in the current branch’s history
 6) git rm [file] = delete the file from project and stage the removal for commit
 7) git merge [branch name]
+
+
+8)git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git  (use when error)
