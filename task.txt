@@ -1,0 +1,144 @@
+No Task Doing R&D on react components
+In case task will come i will do.
+ja tere bina tenu jee k dikhavage
+
+How to fetch data from an Api.
+How to use Javascript Errors(try,catch and throw).
+To use props to pass the value from parent to child components .
+How to  Push the code in your local repository to GitHub.
+
+@) 12345@Ankit passward
+
+
+
+
+Good Evening Sir.
+Daily Status Report - 05/10/2022
+
+Today i have make a tic tac toe game in React js with tailwind css after installation, here is link.
+
+https://github.com/ANKITS23/tic4.git
+
+Non Billable Hours: 8.5
+
+Thanks.
+
+
+
+5.Good Morning Sir
+Morning Status - 19/09/2022
+
+1) 
+2) Looping through an array in JSX
+3) 
+
+
+
+Good Morning Sir,
+Daily Status Report - 07 October 2022
+
+
+Sandeep sir gave me mockup design for Html conversion. i will finish it today with Responsive.
+
+
+Thank you.
+
+
+6) 
+
+Good Evening Sir.
+Daily Status Report - 07/10/2022
+
+Today i have done a Html Coversion from a Mock Up Design,Here is the link. 
+  
+https://github.com/ANKITS23/Design
+
+Non Billable Hours: 8.5
+
+Thank you.
+
+
+
+
+
+Good Morning Sir
+Morning Status - 04 October 2022
+
+No Task so doing practice on react components and hooks.
+In case task will come i will do.
+
+Thanks
+
+
+
+
+Good Morning Sir
+Morning Status - 29/09/2022
+
+No Task Doing R&D on react components with strapi
+In case task will come i will do.
+
+Thanks
+
+
+
+
+Good Evening Sir
+
+Daily Status Report - 06 Oct 2022
+
+1. Today I have practice on  html conversion with css for 8.5 hours. 8.5 is non-billable.,Here is the link. 
+
+
+
+ https://github.com/ANKITS23/Mockup1.git
+
+
+
+Thanks
+
+
+
+
+Good Morning Sir
+
+
+
+Daily Status Report - 10 Oct 2022
+
+
+i am working on to make Html coversion in a Responsive Design  and i will complete it today.
+
+
+Thanks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Non Billable Hours: 8.5
+
+Thanks
+
+
+
+
+Good Morning Sir
+Morning Status - 05/10/2022
+
+No Task doing  practice on react components and hooks.
+In case task will come i will do.
+
+Thanks
+
+
+

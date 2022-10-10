@@ -1,0 +1,97 @@
+
+1)Logical && Operator
+
+
+a)  { isLoading
+          ? <p>Loading...</p>
+          : null
+      }
+
+
+b)  { isLoading && <p>Loading...</p> }
+
+
+2) If Else.
+
+function List({ list }) {
+  if (!list) {
+    return null
+  }
+
+  if (!list.length) {
+    return <p>Sorry, the list is empty.</p>
+  } else {
+    return (
+      <div>
+        {list.map(item => <ListItem item={item} />)}
+      </div>
+    )
+  }
+}
+
+3) Ternary Operation
+
+condition ? expr1 : expr2
+
+
+4)Switch Case Operator
+
+
+function Notification({ text, state }) {
+  switch(state) {
+    case 'info':
+      return <Info text={text} />
+    case 'warning':
+      return <Warning text={text} />
+    case 'error':
+      return <Error text={text} />
+    default:
+      return null
+  }
+}
+
+
+
+5) Default PropTypes
+
+
+Notification.propTypes = {
+  text: React.PropTypes.string,
+  state: React.PropTypes.oneOf(['info', 'warning', 'error'])
+}
+
+
+
+6) use state =>
+
+const SignInButton = () => {
+    const [isLoggedIn, setIsLoggedIn] = useState(true);
+
+    if (isLoggedIn) {
+        return <button>Logout</button>;
+    } else {
+        // If user is logged out
+        return <button>Login</button>;
+    }
+};
+
+7)  Using ternary operators
+
+const SignInButton = () => {
+    const [isLoggedIn, setIsLoggedIn] = useState(true);
+
+    return (
+        <div>
+            {isLoggedIn ? <button>Logout</button> : <button>Login</button>}
+        </div>
+        );
+}
+
+export default SignInButton;
+
+
+8)   What is the difference between async and await?
+
+a) The async keyword is used to define an asynchronous function, which returns a AsyncFunction object. 
+
+b) The await keyword is used to pause async function execution until a Promise is fulfilled, that is resolved or rejected, and to resume execution of the async function after fulfillment.

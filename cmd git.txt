@@ -1,0 +1,26 @@
+
+1) git init 
+2) git add .
+3) git status
+4) git commit -m "first msg"
+ ye command tab use hogi jab origin add krna ho
+5) git remote add origin "https_url:
+6) git remote -v
+7) git push -u origin master
+ (steps)
+8) git remote -v
+9) git pull.(If you are working on any project first you take pull and 
+       then push the code in remote repo).
+
+ ye comand tab use hogi jab replace krna hor remote ko
+10)git remote set-url origin https://github.com/ANKITS23/myApp.git (to give repo path)
+
+ADDITIONAL
+
+1) git branch
+2) git branch [new branch] = to make a new branch.
+3) git checkout = check it out into your working directory.
+4) git checkout [branch name] = switch to another branch .
+5) git log = show all commits in the current branch’s history
+6) git rm [file] = delete the file from project and stage the removal for commit
+7) git merge [branch name]

@@ -1,0 +1,125 @@
+1) code .= to open vs code
+2) git init = to intialize
+3)ls -lart= to see all hidden file
+4)git status= ye dekhne k liye ki konci files h folder m hmare.
+5)git commit=  to commit my file.
+6):wq= for exit.
+7)touch = to made blank file.
+8)git add -A= ek sath sbhi file ko track krne k liye.
+9)git checkout= to match with last comment
+10) git commit -m ""= to commit a msg.
+11)git log= for details like author and date.
+12)cls= for clear my terminl.
+13)git log -p -1= pichle jitne bhi commit app dekna chahte h usme uthne no fill krde 1 ki jgha like 2 , 3 ,4..
+14)q= for quit
+15)git diff=ye dekhne k liye ki hmari file m kya change hua.[to show staging area]
+
+16)git diff --staged= to comapare my pichla change with new change.*
+
+17) git rm (FILE NAME)= to delte any file.
+
+18)git rm --cached (filename)= to remove from staging area
+
+19)ls=jo files add h unko dekhne k liye
+
+20)git status -s=to see our file is modify or not.
+
+21).gitignore  extension is used to  not send some files(BIG SIZE FIILES) in the repo.
+
+22)git branch(branch name)=to make any another branch
+
+23)git cheakout (branch nAME)= TO switch any other branch.note:(master branch) it is a default or main branch in this.
+
+24)git branch= To know KI kitni branch hai.	
+
+25)git push -u orgin (branch name)= to push our file in my github account.
+
+26)git pull orgin master= files ko pull krne k liye remote repsotiry m se.
+
+28)but github repositry is an remote repositry.
+29)git hub  is a distribuuted control version system. [ye source code ko mannage krne ka kaam krta h ]
+30)there are 2 types or control version system. centralised or distrubuted .
+31) git --version = to check the version .
+32)We can fix this error by deleting a file called index.lock in the .git/ directory: (if we show thats another process is running inmy gir repo)
+rm -f .git/index.lock
+33) (-u) for update
+34) git remote set-url origin https://github.com/ANKITS23/myApp.git (to give repo path)
+35) git remote -v (to see the remote origin)
+
+
+
+
+
+S.No.	Git  //	GitHub
+1.	Git is a software.	 
+        GitHub is a service.
+
+2.	Git is a command-line tool	
+        GitHub is a graphical user interface
+
+3.	Git is installed locally on the system	
+        GitHub is hosted on the web
+
+4.	Git is maintained by linux.	
+        GitHub is maintained by Microsoft.
+
+5.	Git is focused on version control and code sharing.	  
+        GitHub is focused on centralized source code hosting.
+
+6.	Git is a version control system to manage source code history. 
+ 	GitHub is a hosting service for Git repositories.
+
+7.	Git was first released in 2005. 
+ 	GitHub was launched in 2008.
+
+8.	Git has no user management feature. 
+ 	GitHub has a built-in user management feature.
+
+9.	Git is open-source licensed.	
+        GitHub includes a free-tier and pay-for-use tier.
+
+10.	Git has minimal external tool configuration.	
+        GitHub has an active marketplace for tool integration.
+
+11.	Git provides a Desktop interface named Git Gui.	
+        GitHub provides a Desktop interface named GitHub Desktop.
+
+12.	Git competes with CVS, Azure DevOps Server, Subversion, Mercurial, etc.
+	GitHub competes with GitLab, Git Bucket, AWS Code Commit, etc.
+
+
+
+
+Step 1: In the Git Bash window, type the below command and press enter. This will configure your Username in Git Bash.
+
+$ git config --global user.name "Name123"
+
+
+
+Step 2: After that, you will have to configure your email. For that, type
+
+$ git config --global user.email "asexample@gmail.orgg"
+
+
+Step 3: To set your password, type the below command as depicted:
+
+$ git config --global user.password "1234321"
+
+
+Step 4: git push origin master (to push the code in repo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
